@@ -1,0 +1,24 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Objetos","order":6,"path":"folders/Objetos.yy",},
+    {"name":"Rooms","order":14,"path":"folders/Rooms.yy",},
+    {"name":"Scripts","order":11,"path":"folders/Scripts.yy",},
+    {"name":"Sprites","order":5,"path":"folders/Sprites.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"fnt_Debug","order":12,"path":"fonts/fnt_Debug/fnt_Debug.yy",},
+    {"name":"Ideias_Jogo","order":13,"path":"notes/Ideias_Jogo/Ideias_Jogo.yy",},
+    {"name":"obj_Criar_Mapa","order":8,"path":"objects/obj_Criar_Mapa/obj_Criar_Mapa.yy",},
+    {"name":"obj_Criar_Sala","order":9,"path":"objects/obj_Criar_Sala/obj_Criar_Sala.yy",},
+    {"name":"obj_Inimigo1","order":3,"path":"objects/obj_Inimigo1/obj_Inimigo1.yy",},
+    {"name":"obj_Porta","order":2,"path":"objects/obj_Porta/obj_Porta.yy",},
+    {"name":"Room1","order":1,"path":"rooms/Room1/Room1.yy",},
+    {"name":"scr_Construcao_Salas","order":3,"path":"scripts/scr_Construcao_Salas/scr_Construcao_Salas.yy",},
+    {"name":"scr_Variaveis_Globais","order":2,"path":"scripts/scr_Variaveis_Globais/scr_Variaveis_Globais.yy",},
+    {"name":"spr_Arma_Inimigo1","order":4,"path":"sprites/spr_Arma_Inimigo1/spr_Arma_Inimigo1.yy",},
+    {"name":"spr_Inimigo1","order":3,"path":"sprites/spr_Inimigo1/spr_Inimigo1.yy",},
+    {"name":"spr_ParedeTeste","order":2,"path":"sprites/spr_ParedeTeste/spr_ParedeTeste.yy",},
+    {"name":"spr_Porta","order":1,"path":"sprites/spr_Porta/spr_Porta.yy",},
+    {"name":"tls_ParedeTeste","order":9,"path":"tilesets/tls_ParedeTeste/tls_ParedeTeste.yy",},
+  ],
+}

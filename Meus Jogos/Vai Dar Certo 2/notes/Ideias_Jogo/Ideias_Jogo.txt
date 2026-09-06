@@ -1,0 +1,4 @@
+
+Armas
+
+    Arma de som potente, mas na hora de recaregar o player ira aparecer teclas para apertar.

@@ -1,0 +1,43 @@
+{
+  "$GMTileSet":"v1",
+  "%Name":"tls_ParedeTeste",
+  "autoTileSets":[
+    {"$GMAutoTileSet":"","%Name":"Parede","closed_edge":false,"name":"Parede","resourceType":"GMAutoTileSet","resourceVersion":"2.0","tiles":[
+        9,10,11,12,13,25,26,27,28,29,43,43,45,59,42,42,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,181,182,183,184,185,
+        186,211,212,213,214,215,216,217,
+      ],},
+  ],
+  "macroPageTiles":{
+    "SerialiseHeight":0,
+    "SerialiseWidth":0,
+    "TileSerialiseData":[],
+  },
+  "name":"tls_ParedeTeste",
+  "out_columns":22,
+  "out_tilehborder":2,
+  "out_tilevborder":2,
+  "parent":{
+    "name":"Vai Dar Certo 2",
+    "path":"Vai Dar Certo 2.yyp",
+  },
+  "resourceType":"GMTileSet",
+  "resourceVersion":"2.0",
+  "spriteId":{
+    "name":"spr_ParedeTeste",
+    "path":"sprites/spr_ParedeTeste/spr_ParedeTeste.yy",
+  },
+  "spriteNoExport":false,
+  "textureGroupId":{
+    "name":"Default",
+    "path":"texturegroups/Default",
+  },
+  "tileAnimationFrames":[],
+  "tileAnimationSpeed":15.0,
+  "tileHeight":16,
+  "tilehsep":0,
+  "tilevsep":0,
+  "tileWidth":16,
+  "tilexoff":0,
+  "tileyoff":0,
+  "tile_count":480,
+}
